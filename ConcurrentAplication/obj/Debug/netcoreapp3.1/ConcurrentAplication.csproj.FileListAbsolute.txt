@@ -1,0 +1,13 @@
+C:\Users\Desktop\source\repos\ConcurrentAplication\ConcurrentAplication\bin\Debug\netcoreapp3.1\ConcurrentAplication.exe
+C:\Users\Desktop\source\repos\ConcurrentAplication\ConcurrentAplication\bin\Debug\netcoreapp3.1\ConcurrentAplication.deps.json
+C:\Users\Desktop\source\repos\ConcurrentAplication\ConcurrentAplication\bin\Debug\netcoreapp3.1\ConcurrentAplication.runtimeconfig.json
+C:\Users\Desktop\source\repos\ConcurrentAplication\ConcurrentAplication\bin\Debug\netcoreapp3.1\ConcurrentAplication.runtimeconfig.dev.json
+C:\Users\Desktop\source\repos\ConcurrentAplication\ConcurrentAplication\bin\Debug\netcoreapp3.1\ConcurrentAplication.dll
+C:\Users\Desktop\source\repos\ConcurrentAplication\ConcurrentAplication\bin\Debug\netcoreapp3.1\ConcurrentAplication.pdb
+C:\Users\Desktop\source\repos\ConcurrentAplication\ConcurrentAplication\obj\Debug\netcoreapp3.1\ConcurrentAplication.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\ConcurrentAplication\ConcurrentAplication\obj\Debug\netcoreapp3.1\ConcurrentAplication.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\ConcurrentAplication\ConcurrentAplication\obj\Debug\netcoreapp3.1\ConcurrentAplication.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\ConcurrentAplication\ConcurrentAplication\obj\Debug\netcoreapp3.1\ConcurrentAplication.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\ConcurrentAplication\ConcurrentAplication\obj\Debug\netcoreapp3.1\ConcurrentAplication.dll
+C:\Users\Desktop\source\repos\ConcurrentAplication\ConcurrentAplication\obj\Debug\netcoreapp3.1\ConcurrentAplication.pdb
+C:\Users\Desktop\source\repos\ConcurrentAplication\ConcurrentAplication\obj\Debug\netcoreapp3.1\ConcurrentAplication.genruntimeconfig.cache
